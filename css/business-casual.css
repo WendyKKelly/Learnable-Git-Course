@@ -248,5 +248,9 @@ p {
   font-weight: 100 !important;
 }
 .brand-color {
+<<<<<<< HEAD
   color: #FFFFFF;
+=======
+  color: #000000;
+>>>>>>> 9e8e6f3e8d1c5903f2b6798411c2923369cba8f6
 }
